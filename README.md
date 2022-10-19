@@ -1,7 +1,7 @@
 # Respostas do exercício
 
 ## Exercício 1
-![alt text](SQL_DER/Exercicio_1.png)
+![alt text](https://raw.githubusercontent.com/MLjoaolaureano/SQL_DER/main/Exercicio_1.png)
 
 ## Exercício 2
 a. Qual é a chave primária para a tabela de clientes? Justifique a resposta
